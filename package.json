@@ -1,0 +1,22 @@
+{
+  "name": "starterkit-mustache-acidtest",
+  "version": "0.0.1",
+  "description": "Cross-platform acid tests for Pattern Lab",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pattern-lab/starterkit-mustache-acidtest.git"
+  },
+  "keywords": [
+    "Pattern Lab",
+    "Atomic Design",
+    "Mustache",
+    "Acid Test",
+    "Starterkit"
+  ],
+  "author": "Brian Muenzenmeyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pattern-lab/starterkit-mustache-acidtest/issues"
+  },
+  "homepage": "https://github.com/pattern-lab/starterkit-mustache-acidtest#readme"
+}

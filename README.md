@@ -1,7 +1,7 @@
 # Starterkit Mustache Acidtest
 Cross-platform acid tests for [Pattern Lab](http://patternlab.io/)
 
-> **MAJOR KUDOS** to @c1rrus for the original idea of the Acid Test Starterkit. His README is included below, slightly modified.
+> **MAJOR KUDOS** to [@c1rrus](https://github.com/c1rrus) for the original idea of the Acid Test Starterkit. His README is included below, slightly modified.
 
 This Starterkit exists as a means to reproduce combinations of Pattern Lab features across Pattern Lab PHP and Pattern Lab Node and ensure identical results.
 
