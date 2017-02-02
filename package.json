@@ -1,6 +1,6 @@
 {
   "name": "starterkit-mustache-acidtest",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Cross-platform acid tests for Pattern Lab",
   "main": "README.md",
   "repository": {
