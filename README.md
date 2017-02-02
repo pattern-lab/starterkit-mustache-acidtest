@@ -13,7 +13,8 @@ Creation of this Starterkit [was voted on and passed](https://github.com/pattern
 
 ## Adding Test Cases
 
-__Draft__
+> Draft Process
+
 To add more test cases to this Starterkit, first create an issue so it can be discussed. If there is spec ambiguity, or cross-platform parity concerns, it's a good candidate. Pattern Lab maintainers will work with you to attempt to reduce your sample to the smallest-possible test case. Then, submit a pull request with the needed files - ideally all contained within their own numbered folder under `_patterns`.
 
 ## Setup
@@ -27,4 +28,4 @@ Install this Starterkit via your preferred Pattern Lab platform. This project as
 
 To install a specific StarterKit from GitHub type:
 
-`php core/console --starterkit --install pattern-lab/starterkit-mustache-acidtest
+`php core/console --starterkit --install pattern-lab/starterkit-mustache-acidtest`
