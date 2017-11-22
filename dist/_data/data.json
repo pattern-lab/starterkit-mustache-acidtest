@@ -1,0 +1,16 @@
+{
+    "dummy":  {
+		"dummy-atom":  {
+			"classes" : "dummy-atom-base-classes",
+			"content" : "dummy-atom-base-content"
+		},
+		"dummy-organism":  {
+			"classes" : "dummy-organism-base-classes",
+			"content" : "dummy-organism-base-content"
+		},
+		"dummy-template":  {
+			"classes" : "dummy-template-base-classes",
+			"content" : "dummy-template-base-content"
+		}
+    }
+}
